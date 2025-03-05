@@ -1,6 +1,6 @@
 # multi_balances_checker
 
-### 1 Update & Install Dependencies
+### 1️⃣ Update & Install Dependencies
 ```
 sudo apt update && sudo apt upgrade -y
 ```
@@ -24,7 +24,7 @@ cd multi_balances_checker
 nano config.py
 ```
 
-### Run Script
+### 4️⃣ Run Script
 #### Native Checker
 ```
 python3 check_native_balance.py
