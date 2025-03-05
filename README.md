@@ -35,4 +35,8 @@ python3 check_token_balance.py
 ```
 
 ### 5️⃣ Catatan
-Hal-hal yang perlu dirubah-rubah sesuai chain dan kebutuhan ada di file config.py
+- Hal-hal yang perlu dirubah-rubah sesuai chain dan kebutuhan ada di file config.py
+- Scripts akan menghasilkan file .CSV yang dapat kamu download dan buka di excel
+- Scripts ini 100% aman, karna tidak memerlukan Private Key atau Phrase
+- Semoga Bermanfaat
+- Jangan lupa diskusi dan join di CH dan Grup kami di TG : https://t.me/ZeroDropDAO dan https://t.me/ZeroDropLounge
