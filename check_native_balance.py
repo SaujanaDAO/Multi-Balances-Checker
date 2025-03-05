@@ -28,6 +28,7 @@ NATIVE_TOKENS = {
     "linea": "ETH",
     "scroll": "ETH",
     "zksync": "ETH",
+    "fantom": "FTM",
 }
 
 # Pastikan nama chain sudah diambil dari config
