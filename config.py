@@ -17,6 +17,9 @@ CHAIN_TO_CG_ID = {
     "avalanche": "avalanche-2",
     "fantom": "fantom",
     "base": "ethereum"
+    "linea": "ethereum",
+    "scroll": "ethereum",
+    "zksync": "ethereum",
 }
 
 # Tambahkan hingga 1000 wallet juga boleh
