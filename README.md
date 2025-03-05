@@ -3,20 +3,27 @@
 ```sh
 sudo apt update && sudo apt upgrade -y```
 
-`sudo apt install python3 python3-pip -y`
+```sh
+sudo apt install python3 python3-pip -y```
 
-`pip install web3 requests`
+```sh
+pip install web3 requests```
 
-`pip install --upgrade requests urllib3 chardet`
+```sh
+pip install --upgrade requests urllib3 chardet```
 
-`mkdir token_checker
-cd token_checker`
+```sh
+mkdir multi_balances_checker
+cd multi_balances_checker```
 
-`nano config.py`
+```sh
+nano config.py```
 
-`nano check_native_balance.py`
+```sh
+nano check_native_balance.py```
 
-`nano check_token_balance.py`
+```sh
+nano check_token_balance.py```
 
 
 
