@@ -1,6 +1,6 @@
 # multi_balances_checker
 
-``sudo apt update && sudo apt upgrade -y``
+```sudo apt update && sudo apt upgrade -y```
 
 sudo apt install python3 python3-pip -y
 
