@@ -1,16 +1,11 @@
 # multi_balances_checker
 
+## 1️⃣ Update & Install Dependencies
 ```sh
-sudo apt update && sudo apt upgrade -y```
-
-```sh
-sudo apt install python3 python3-pip -y```
-
-```sh
-pip install web3 requests```
-
-```sh
-pip install --upgrade requests urllib3 chardet```
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 python3-pip -y
+pip install web3 requests
+pip install --upgrade requests urllib3 chardet
 
 ```sh
 mkdir multi_balances_checker
