@@ -3,8 +3,8 @@
 # Ini adalah contoh kode Python
 print("Hello, GitHub!")
 
-```sudo apt update && sudo apt upgrade -y```
-
+`sudo apt update && sudo apt upgrade -y
+`
 sudo apt install python3 python3-pip -y
 
 pip install web3 requests
