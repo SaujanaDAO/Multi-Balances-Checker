@@ -25,6 +25,9 @@ NATIVE_TOKENS = {
     "avalanche": "AVAX",
     "taiko": "ETH",
     "base": "ETH",
+    "linea": "ETH",
+    "scroll": "ETH",
+    "zksync": "ETH",
 }
 
 # Pastikan nama chain sudah diambil dari config
