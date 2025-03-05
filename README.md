@@ -33,3 +33,6 @@ python3 check_native_balance.py
 ```
 python3 check_token_balance.py
 ```
+
+### 5️⃣ Catatan
+Hal-hal yang perlu dirubah-rubah sesuai chain dan kebutuhan ada di file config.py
