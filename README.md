@@ -5,7 +5,7 @@
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip -y
 pip install web3 requests
-pip install --upgrade requests urllib3 chardet
+pip install --upgrade requests urllib3 chardet```
 
 ### 2️⃣ Update & Install Dependencies
 ```sh
