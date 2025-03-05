@@ -25,11 +25,11 @@ nano config.py
 ```
 
 ### 4️⃣ Run Script
-#### Native Checker
+#### Native Balances Checker
 ```
 python3 check_native_balance.py
 ```
-#### Balances Token Checker
+#### Token Balances Checker
 ```
 python3 check_token_balance.py
 ```
