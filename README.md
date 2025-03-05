@@ -1,4 +1,4 @@
-# multi_balances_checker
+# Multi Balances Checker
 
 ### 1️⃣ Update & Install Dependencies
 ```
@@ -16,8 +16,8 @@ pip install --upgrade requests urllib3 chardet
 
 ### 2️⃣ Update & Install Dependencies
 ```
-git clone https://github.com/SaujanaDAO/multi_balances_checker.git
-cd multi_balances_checker
+git clone https://github.com/SaujanaDAO/Multi-Balances-Checker.git
+cd Multi-Balances-Checker
 ```
 ### 3️⃣ Buat & Edit File Konfigurasi
 ```
