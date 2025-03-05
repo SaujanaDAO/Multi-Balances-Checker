@@ -14,7 +14,7 @@ pip install web3 requests
 pip install --upgrade requests urllib3 chardet
 ```
 
-### 2️⃣ Update & Install Dependencies
+### 2️⃣ Install Scripts
 ```
 git clone https://github.com/SaujanaDAO/Multi-Balances-Checker.git
 cd Multi-Balances-Checker
