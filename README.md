@@ -1,5 +1,8 @@
 # multi_balances_checker
 
+# Ini adalah contoh kode Python
+print("Hello, GitHub!")
+
 ```sudo apt update && sudo apt upgrade -y```
 
 sudo apt install python3 python3-pip -y
